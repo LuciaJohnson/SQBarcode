@@ -1,9 +1,7 @@
-# SQBarcode
+# Occupationbeauty
 
-A quick and easy to scan QR code.
-- full screen scanning
-- Detect scanned content with Google Safe Browsing
-- View scan history
+Express your profession through pictures and stickers. There are teachers, designers, pilots, loggers, gardeners, carpenters...
+Every profession is beautiful. Know them through pictures.
 
 In the course of use, if you have any questions, please contact me.
-Email: r1h7p3@yeah.net
+Email: owcwqm@163.com
